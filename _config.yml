@@ -5,6 +5,10 @@ baseurl: "/chopralab/jekyll"
 url: "https://csculley.github.io"
 twitter_username: "chopralab"
 youtube_username: "chopralab"
+exclude:
+    - "HOW-TO-USE.txt"
+    - "Gemfile"
+    - "Gemfile.lock"
 
 # Build settings
 markdown: "kramdown"
